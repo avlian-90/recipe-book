@@ -12,7 +12,7 @@ This is the backend service for Recipe aapplication, built with **Node.js**, **E
 
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/avlian-90/recipe-api.git
+git clone https://github.com/avlian-90/recipe-book.git
 cd backend
 ```
 
